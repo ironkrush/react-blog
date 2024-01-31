@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+it's a blog website created using react.js with vite and deployed on vercel, the backend is directly integrated through open source service named appwrite
 
-Currently, two official plugins are available:
+Hope you will like my work, instead of focusing on design my first and foremost plan was to improve it's functionality 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The given link will direct you to the website which is live and working right now:
+
+https://react-blog-puce.vercel.app
